@@ -1,4 +1,8 @@
+def hello():
+    print("Hello, World!")
+    print("My name is Varun.")
+    print("Welcome to Python programming!")
 
-print("Hello, World!")
-print("My name is Varun.")
-print("I am learning Python.")
+
+if __name__ == "__main__":
+    main()
