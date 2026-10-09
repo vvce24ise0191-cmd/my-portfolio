@@ -1,4 +1,5 @@
-def hello():
+
+def main():
     print("Hello, World!")
     print("My name is Varun.")
     print("Welcome to Python programming!")
